@@ -2,7 +2,7 @@
 
 I utilized the CoinRanking API as the data source for the project. To avoid CORS issues, navigate to https://cors-anywhere.herokuapp.com/corsdemo and click the "Request" button displayed on screen.
 
-# TorqataChartProj
+# Torqata Chart Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
 
